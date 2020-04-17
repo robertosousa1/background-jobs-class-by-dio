@@ -26,8 +26,6 @@ In this video we talk about background tasks in Node.js with Redis, using a libr
   <a href="https://github.com/robertosousa1/background-jobs-class-by-dio/issues">
     <img alt="Repository issues" src="https://img.shields.io/github/issues/robertosousa1/background-jobs-class-by-dio.svg">
   </a>
-  
-  <img alt="GitHub" src="https://img.shields.io/github/license/robertosousa1/background-jobs-class-by-dio.svg">   
 </p>
 
 <p align="center">
