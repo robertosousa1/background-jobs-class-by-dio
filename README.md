@@ -62,8 +62,10 @@ In this video we talk about background tasks in Node.js with Redis, using a libr
 After merging your receipt request to done, you can delete a branch from yours.
 
 ## [](#license):memo: License
-This project is under the MIT license. See the [LICENSE]([[https://github.com/robertosousa1/background-jobs-class-by-dio/blob/master/LICENSE](https://github.com/robertosousa1/background-jobs-class-by-dio/blob/master/LICENSE)]) for more information.
+This project is under the MIT license. See the [LICENSE](https://github.com/robertosousa1/background-jobs-class-by-dio/blob/master/LICENSE) for more information.
 
 ----------
 
 Made with by Roberto Sousa  👋  [Get in touch!](https://www.linkedin.com/in/robertosousa01/)
+
+
